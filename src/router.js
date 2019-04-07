@@ -29,6 +29,26 @@ export default new Router({
       component: () => import("./views/Resume.vue")
     },
     {
+      path: "/people",
+      name: "people",
+      component: () => import("./views/Technology/People.vue")
+    },
+    {
+      path: "/cars",
+      name: "cars",
+      component: () => import("./views/Technology/Cars.vue")
+    },
+    {
+      path: "/traffic",
+      name: "traffic",
+      component: () => import("./views/Industry/Traffic.vue")
+    },
+    {
+      path: "/security",
+      name: "security",
+      component: () => import("./views/Industry/Security.vue")
+    },
+    {
       path: "/about",
       name: "about",
       // route level code-splitting

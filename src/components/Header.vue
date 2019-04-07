@@ -16,19 +16,19 @@
         <el-menu-item index="/">首页</el-menu-item>
         <el-submenu index="2">
           <template slot="title">核心技术</template>
-          <el-menu-item index="/projects">人的检测识别</el-menu-item>
-          <el-menu-item index="">车的检测识别</el-menu-item>
+          <el-menu-item index="/people">人的检测识别</el-menu-item>
+          <el-menu-item index="/cars">车的检测识别</el-menu-item>
           <el-menu-item index="">机器视觉</el-menu-item>
         </el-submenu>
         <el-submenu index="3">
           <template slot="title">行业应用</template>
-          <el-menu-item index="">智慧交通</el-menu-item>
-          <el-menu-item index="">智慧工厂</el-menu-item>
+          <el-menu-item index="/traffic">智慧交通</el-menu-item>
+          <el-menu-item index="/security">智慧工厂</el-menu-item>
           <el-menu-item index="">智慧工地</el-menu-item>
           <el-menu-item index="">智慧医疗</el-menu-item>
         </el-submenu>
         <el-menu-item index="/readbook">媒体动态</el-menu-item>
-        <el-menu-item index="/resume">关于</el-menu-item>
+        <el-menu-item index="/about">关于</el-menu-item>
       </el-menu>
     </el-col>
   </el-row>

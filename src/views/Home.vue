@@ -31,7 +31,6 @@
         </el-carousel-item>
       </el-carousel>
     </div>
-
     <el-row style="margin-bottom:50px;">
       <el-row>
         <p style="font-size:36px; ">核心技术</p>
