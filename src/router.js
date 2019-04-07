@@ -14,21 +14,6 @@ export default new Router({
       component: Home
     },
     {
-      path: "/readbook",
-      name: "readbook",
-      component: () => import("./views/ReadBook.vue")
-    },
-    {
-      path: "/projects",
-      name: "projects",
-      component: () => import("./views/Projects.vue")
-    },
-    {
-      path: "/resume",
-      name: "resume",
-      component: () => import("./views/Resume.vue")
-    },
-    {
       path: "/people",
       name: "people",
       component: () => import("./views/Technology/People.vue")
