@@ -27,7 +27,7 @@
           <el-menu-item index="">智慧工地</el-menu-item>
           <el-menu-item index="">智慧医疗</el-menu-item>
         </el-submenu>
-        <el-menu-item index="/readbook">媒体动态</el-menu-item>
+        <el-menu-item index="/news">媒体动态</el-menu-item>
         <el-menu-item index="/about">关于</el-menu-item>
       </el-menu>
     </el-col>

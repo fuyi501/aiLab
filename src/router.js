@@ -34,6 +34,11 @@ export default new Router({
       component: () => import("./views/Industry/Security.vue")
     },
     {
+      path: "/news",
+      name: "news",
+      component: () => import("./views/News.vue")
+    },
+    {
       path: "/about",
       name: "about",
       // route level code-splitting

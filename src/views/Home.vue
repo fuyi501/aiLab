@@ -22,7 +22,7 @@
                 智能改变世界
               </p>
               <p style="font-size:26px;color:#fff;">
-                牛逼的高大上的唯一的顶尖的计算机视觉团队
+                顶尖的一流的牛逼的计算机视觉技术研发团队
               </p>
             </el-col>
           </el-row>
@@ -140,10 +140,10 @@
           <el-card :body-style="{ padding: '0px' }">
             <img src="../assets/test2.jpg" class="image" />
             <div style="padding: 14px;">
-              <span>好吃的汉堡</span>
+              <span>合作伙伴</span>
               <div class="bottom clearfix">
                 <time class="time">{{ currentDate }}</time>
-                <el-button type="text" class="button">操作按钮</el-button>
+                <el-button type="text" class="button">合作伙伴</el-button>
               </div>
             </div>
           </el-card>

@@ -34,7 +34,7 @@
             <div style="padding: 14px;">
               <p style="font-size:18px;">机动车特征提取</p>
               <div style="font-size:14px;margin-bottom:15px;" class="bottom clearfix">
-                <span>支持对监控点位或视频数据中的机动车进行检测跟踪，
+                <span>支持对监控点位或视频数据中的机动车进行检测跟踪，训练的模型
                   可提取出机动车的车辆号牌、车身颜色、车辆品牌、车辆类型等多个关键信息，
                   同时进行结构化数据分析整理，通过有效信息迅速定位到目标。</span><br>
               </div>
