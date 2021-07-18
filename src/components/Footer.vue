@@ -30,22 +30,22 @@
         <el-row class="footer-right">
           <el-col :span="24">
             <p>商务合作</p>
-            <p>0571 - 86693868</p>
+            <p>13408468876</p>
             <p>周一到周五 09:00 - 18:00（北京时间）</p>
-            <p>西南交通大学</p>
+            <p>乘方大数据</p>
           </el-col>
         </el-row>
       </el-col>
     </el-row>
     <el-row class="footer-footer" type="flex" align="middle">
       <el-col>
-        Copyright©2018 人工智能实验室
+        Copyright©2018 乘方大数据
         <a
           style="text-decoration:none;color:#fff;"
           target="_blank"
           href="http://www.miitbeian.gov.cn"
         >
-          蜀ICP备18013727号
+          京ICP备18013727号
         </a>
       </el-col>
     </el-row>
